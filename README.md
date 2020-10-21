@@ -1,10 +1,16 @@
 # The Puppet
+* [Link](#link)
 * [About](#about)
 * [สิ่งที่ต้องทำ](#สิ่งที่ต้องทำ)
 * หมายเหตุ
     * ใส่ภาพใน content->project->img
     * อาจมีขวดให้เก็บและถามว่า กินหรือไม่ แต่ล่ะขวดจะทำให้หน้าน้องเปลี่ยนไป แบบมีความสุข สดใส ร้องไห้ หน้ามืด หรือตัดมืดไปโพล่ห้องสมุด
     * sound ต่างๆต้องเป็น .wav
+## link
+**Github:** https://github.com/AnitthaJai-on/ThePuppet
+ 
+**Drive:** https://drive.google.com/drive/folders/1-5tcEpC6WXjrFdVykOzH1vKkwnFAyXOK
+   
 
 ## About
 * ฉาก 1
