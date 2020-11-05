@@ -54,7 +54,8 @@ https://docs.unrealengine.com/en-US/Engine/MediaFramework/HowTo/FileMediaSource/
   * [X] หน้าตั้งค่า
   * [X] กดปิดเกม
   * [ ] save/load
-  * [ ] ทำให้ตัวคนขยับ WASD F,enter->เก็บของ เปิดประตู spanbar->อาจเป็นมินิเกมหลบ
+  * [X] ทำให้ตัวคนขยับ WASD
+  * [ ] F,enter->เก็บของ เปิดประตู spanbar->อาจเป็นมินิเกมหลบ
   * [ ] มินิเกม คือให้หลบคนเฝ้าห้องสมุด
   * [ ] puzzle แรกที่เก็บจิ๊กซอ
   
