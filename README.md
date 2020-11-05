@@ -71,3 +71,9 @@ https://docs.unrealengine.com/en-US/Engine/MediaFramework/HowTo/FileMediaSource/
   * [ ] นกฮูก
 
 * Sound
+
+
+* Font
+  * https://fonts.google.com/specimen/Turret+Road?query=turre
+  * https://fonts.google.com/specimen/Syne+Mono?query=syne
+  * https://fonts.google.com/specimen/Cabin+Sketch?query=cabin
