@@ -10,7 +10,9 @@
 **Github:** https://github.com/AnitthaJai-on/ThePuppet
  
 **Drive:** https://drive.google.com/drive/folders/1-5tcEpC6WXjrFdVykOzH1vKkwnFAyXOK
-   
+
+Support Game
+https://docs.unrealengine.com/en-US/Engine/MediaFramework/HowTo/FileMediaSource/index.html   
 
 ## About
 * ฉาก 1
@@ -49,8 +51,8 @@
   
 * System
   * [X] หน้าแรกของระบบ
-  * [ ] หน้าตั้งค่า
-  * [ ] กดปิดเกม
+  * [X] หน้าตั้งค่า
+  * [X] กดปิดเกม
   * [ ] save/load
   * [ ] ทำให้ตัวคนขยับ WASD F,enter->เก็บของ เปิดประตู spanbar->อาจเป็นมินิเกมหลบ
   * [ ] มินิเกม คือให้หลบคนเฝ้าห้องสมุด
