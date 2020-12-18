@@ -1,0 +1,1256 @@
+﻿Log file open, 12/18/20 17:29:19
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.349748
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [B:/git/ThePuppet/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [B:/git/ThePuppet/Saved/Config/Windows/Engine.ini]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [B:/git/ThePuppet/Saved/Config/Windows/Engine.ini]
+[2020.12.18-10.29.20:439][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [B:/git/ThePuppet/Saved/Config/Windows/Engine.ini]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.18-10.29.20:439][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [B:/git/ThePuppet/Saved/Config/Windows/Engine.ini]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.18-10.29.20:440][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [B:/git/ThePuppet/Saved/Config/Windows/Engine.ini]
+[2020.12.18-10.29.20:440][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [B:/git/ThePuppet/Saved/Config/Windows/Engine.ini]
+[2020.12.18-10.29.20:449][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:449][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.18-10.29.20:450][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.18-10.29.20:451][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.18-10.29.20:452][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.18-10.29.20:453][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.18-10.29.20:453][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.18-10.29.20:453][  0]LogHAL: Display: Platform has ~ 8 GB [8458571776 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.18-10.29.20:453][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.18-10.29.20:453][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.18-10.29.20:453][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.18-10.29.20:454][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.18-10.29.20:455][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [B:/git/ThePuppet/Saved/Config/Windows/Scalability.ini]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.18-10.29.20:456][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [B:/git/ThePuppet/Saved/Config/Windows/Engine.ini]
+[2020.12.18-10.29.20:457][  0]LogInit: Computer: DESKTOP-0H4DJGG
+[2020.12.18-10.29.20:457][  0]LogInit: User: LENOVO
+[2020.12.18-10.29.20:457][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.18-10.29.20:457][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.18-10.29.20:457][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.12.18-10.29.20:457][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.18-10.29.20:457][  0]LogMemory: Process Physical Memory: 114.03 MB used, 114.03 MB peak
+[2020.12.18-10.29.20:457][  0]LogMemory: Process Virtual Memory: 96.04 MB used, 96.04 MB peak
+[2020.12.18-10.29.20:457][  0]LogMemory: Physical Memory: 4029.43 MB used,  4037.30 MB free, 8066.72 MB total
+[2020.12.18-10.29.20:457][  0]LogMemory: Virtual Memory: 5143.18 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.12.18-10.29.20:466][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.18-10.29.20:522][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.18-10.29.20:525][  0]LogInit: Using OS detected language (en-US).
+[2020.12.18-10.29.20:525][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.18-10.29.20:532][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.18-10.29.20:908][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.18-10.29.20:989][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.18-10.29.20:989][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.18-10.29.21:424][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.18-10.29.21:424][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.18-10.29.21:425][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.18-10.29.21:425][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.18-10.29.21:553][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX130' (Feature Level 11_0)
+[2020.12.18-10.29.21:553][  0]LogD3D11RHI:       2010/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.18-10.29.21:599][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.12.18-10.29.21:599][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.18-10.29.21:603][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.18-10.29.21:604][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.18-10.29.21:604][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.18-10.29.21:699][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.18-10.29.21:699][  0]LogD3D11RHI:     GPU DeviceId: 0x174d (for the marketing name, search the web for "GPU Device Id")
+[2020.12.18-10.29.21:700][  0]LogWindows: EnumDisplayDevices:
+[2020.12.18-10.29.21:700][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.12.18-10.29.21:700][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:1)
+[2020.12.18-10.29.21:701][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.12.18-10.29.21:701][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.12.18-10.29.21:701][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX130
+[2020.12.18-10.29.21:702][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.12.18-10.29.21:702][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.12.18-10.29.21:702][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.12.18-10.29.21:794][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.18-10.29.21:797][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.12.18-10.29.21:797][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.18-10.29.21:826][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.18-10.29.22:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.18-10.29.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.18-10.29.22:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.18-10.29.22:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.18-10.29.22:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.18-10.29.22:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.18-10.29.22:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.18-10.29.22:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.18-10.29.22:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.18-10.29.22:729][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.18-10.29.22:748][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.18-10.29.22:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.18-10.29.22:803][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.18-10.29.22:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.18-10.29.22:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.18-10.29.22:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.18-10.29.22:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.18-10.29.22:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.18-10.29.22:924][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.18-10.29.22:924][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.18-10.29.22:939][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.18-10.29.23:065][  0]LogShaderCompilers: Guid format shader working directory is 30 characters bigger than the processId version (B:/git/ThePuppet/Intermediate/Shaders/WorkingDirectory/15328/).
+[2020.12.18-10.29.23:065][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/LENOVO/AppData/Local/Temp/UnrealShaderWorkingDir/9D4D6754432B414380AAECBF0D18EE33/'.
+[2020.12.18-10.29.23:066][  0]LogXGEController: Cleaning working directory: C:/Users/LENOVO/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.18-10.29.23:066][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.18-10.29.23:067][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.18-10.29.23:067][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.18-10.29.24:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.18-10.29.24:878][  0]LogDerivedDataCache: Loaded boot cache 0.10s 75MB C:/Users/LENOVO/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.18-10.29.24:878][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/LENOVO/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.18-10.29.24:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file B:/git/ThePuppet/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.18-10.29.24:878][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.18-10.29.24:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file B:/git/ThePuppet/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.18-10.29.24:878][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.18-10.29.24:902][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.18-10.29.24:902][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.18-10.29.24:902][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.18-10.29.24:904][  0]LogDerivedDataCache: Using Local data cache path C:/Users/LENOVO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.18-10.29.24:904][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.18-10.29.24:904][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.18-10.29.25:017][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.18-10.29.25:018][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.18-10.29.25:071][  0]LogAssetRegistry: FAssetRegistry took 0.0049 seconds to start up
+[2020.12.18-10.29.25:573][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.18-10.29.25:821][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.18-10.29.25:821][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.18-10.29.25:821][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.18-10.29.25:821][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.18-10.29.25:821][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.18-10.29.25:857][  0]LogNetVersion: MyProject 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 709303259)
+[2020.12.18-10.29.26:789][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000020ABBA65800), frame # 0
+[2020.12.18-10.29.26:789][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020ABB95E980), frame # 0
+[2020.12.18-10.29.26:792][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020ABBAB2A00), frame # 0
+[2020.12.18-10.29.26:876][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.072180 seconds
+[2020.12.18-10.29.26:886][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.18-10.29.26:886][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.18-10.29.26:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.18-10.29.27:552][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.18-10.29.27:561][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.18-10.29.27:718][  0]SourceControl: Source control is disabled
+[2020.12.18-10.29.27:718][  0]SourceControl: Source control is disabled
+[2020.12.18-10.29.27:725][  0]SourceControl: Source control is disabled
+[2020.12.18-10.29.27:732][  0]SourceControl: Source control is disabled
+[2020.12.18-10.29.27:748][  0]SourceControl: Source control is disabled
+[2020.12.18-10.29.27:775][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.18-10.29.27:777][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.18-10.29.28:203][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.18-10.29.28:240][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.18-10.29.28:241][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.18-10.29.28:339][  0]LogOcInput: OculusInput pre-init called
+[2020.12.18-10.29.28:360][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.18-10.29.28:361][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.18-10.29.28:487][  0]LogEngine: Initializing Engine...
+[2020.12.18-10.29.28:490][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.18-10.29.28:490][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.18-10.29.28:492][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.18-10.29.28:736][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.18-10.29.28:751][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.18-10.29.28:751][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020AA22B3C00), frame # 0
+[2020.12.18-10.29.28:751][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020AA22AFB00), frame # 0
+[2020.12.18-10.29.28:792][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.18-10.29.28:792][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.18-10.29.28:792][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.18-10.29.28:792][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.18-10.29.28:792][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.18-10.29.28:792][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.18-10.29.28:792][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.18-10.29.28:792][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.18-10.29.28:793][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.18-10.29.28:793][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.18-10.29.28:823][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.18-10.29.28:823][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.18-10.29.29:245][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.12.18-10.29.29:251][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.18-10.29.29:255][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.18-10.29.29:256][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.18-10.29.29:258][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.18-10.29.29:259][  0]LogInit: FAudioDevice initialized.
+[2020.12.18-10.29.29:260][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.18-10.29.29:356][  0]LogDerivedDataCache: Saved boot cache 0.10s 75MB C:/Users/LENOVO/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.18-10.29.29:367][  0]LogInit: Texture streaming: Enabled
+[2020.12.18-10.29.29:398][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.18-10.29.29:398][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={0CE1E55C-4A6D-8D06-8619-8F9AF15946EB}
+[2020.12.18-10.29.29:398][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.18-10.29.29:401][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.18-10.29.29:514][  0]LogInit: Transaction tracking system initialized
+[2020.12.18-10.29.29:554][  0]BlueprintLog: New page: Editor Load
+[2020.12.18-10.29.29:685][  0]LocalizationService: Localization service is disabled
+[2020.12.18-10.29.29:833][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.18-10.29.29:834][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.18-10.29.30:001][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.18-10.29.30:001][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.18-10.29.30:256][  0]LogFileCache: Scanning file cache for directory 'B:/git/ThePuppet/Content/' took 0.01s
+[2020.12.18-10.29.30:728][  0]SourceControl: Source control is disabled
+[2020.12.18-10.29.30:728][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.354
+[2020.12.18-10.29.30:728][  0]Cmd: MAP LOAD FILE="B:/git/ThePuppet/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.18-10.29.30:729][  0]LightingResults: New page: Lighting Build
+[2020.12.18-10.29.30:730][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.18-10.29.30:730][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-10.29.30:731][  0]MapCheck: New page: Map Check
+[2020.12.18-10.29.30:731][  0]LightingResults: New page: Lighting Build
+[2020.12.18-10.29.30:751][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020AA22B3C00), frame # 0
+[2020.12.18-10.29.30:751][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020AA22AFB00), frame # 0
+[2020.12.18-10.29.30:752][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.12.18-10.29.31:663][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.12.18-10.29.31:663][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020AACFBE000), frame # 0
+[2020.12.18-10.29.31:663][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020AAD002700), frame # 0
+[2020.12.18-10.29.31:913][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.18-10.29.31:992][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.12.18-10.29.31:992][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.18-10.29.31:992][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2020.12.18-10.29.31:992][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.264
+[2020.12.18-10.29.31:996][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.621
+[2020.12.18-10.29.32:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-10.29.32:234][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-10.29.32:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-10.29.32:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-10.29.32:279][  0]LogCollectionManager: Loaded 0 collections in 0.003670 seconds
+[2020.12.18-10.29.32:305][  0]LogFileCache: Scanning file cache for directory 'B:/git/ThePuppet/Saved/Collections/' took 0.00s
+[2020.12.18-10.29.32:306][  0]LogFileCache: Scanning file cache for directory 'B:/git/ThePuppet/Content/Developers/LENOVO/Collections/' took 0.00s
+[2020.12.18-10.29.32:306][  0]LogFileCache: Scanning file cache for directory 'B:/git/ThePuppet/Content/Collections/' took 0.00s
+[2020.12.18-10.29.32:306][  0]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 3427 classes and 821 folders.
+[2020.12.18-10.29.32:319][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.18-10.29.32:423][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.18-10.29.32:425][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2020.12.18-10.29.32:693][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.18-10.29.32:700][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.18-10.29.32:710][  0]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.18-10.29.32:892][  0]LogRenderer: Reallocating scene render targets to support 1260x708 Format 10 NumSamples 1 (Frame:1).
+[2020.12.18-10.29.33:096][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.18-10.29.33:096][  0]LogLoad: (Engine Initialization) Total time: 15.72 seconds
+[2020.12.18-10.29.33:096][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.18-10.29.33:181][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.18-10.29.33:316][  1]LogAssetRegistry: Asset discovery search completed in 8.2466 seconds
+[2020.12.18-10.29.33:328][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.12.18-10.29.34:189][ 35]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.18-10.29.37:299][167]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.18-10.29.38:291][215]LogFileCache: Retrieving MD5 hashes for directory 'B:/git/ThePuppet/Content/' took 5.17s
+[2020.12.18-10.29.43:369][421]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Project/Maps/level01.level01
+[2020.12.18-10.29.43:393][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.12.18-10.29.43:400][421]Cmd: MAP LOAD FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.18-10.29.43:400][421]LightingResults: New page: Lighting Build
+[2020.12.18-10.29.43:401][421]LoadErrors: New page: Loading map: level01.umap
+[2020.12.18-10.29.43:405][421]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.18-10.29.43:406][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-10.29.43:406][421]MapCheck: New page: Map Check
+[2020.12.18-10.29.43:406][421]LightingResults: New page: Lighting Build
+[2020.12.18-10.29.43:427][421]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020AACFBE000), frame # 421
+[2020.12.18-10.29.43:427][421]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020AAD002700), frame # 421
+[2020.12.18-10.29.43:429][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.12.18-10.29.43:573][421]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.18-10.29.43:573][421]LogAIModule: Creating AISystem for world level01
+[2020.12.18-10.29.43:573][421]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020B0C897400), frame # 421
+[2020.12.18-10.29.43:573][421]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020ADC5E2340), frame # 421
+[2020.12.18-10.29.43:597][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.12.18-10.29.43:670][421]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.18-10.29.43:671][421]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.184ms to complete.
+[2020.12.18-10.29.43:671][421]LogFileHelpers: Loading map 'level01' took 0.271
+[2020.12.18-10.29.56:184][544]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Project/Maps/level01.level01:PersistentLevel.level01
+[2020.12.18-10.29.56:538][544]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 125 classes and 0 folders.
+[2020.12.18-10.29.58:371][544]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.18-10.29.58:469][545]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.18-10.30.31:291][190]BlueprintLog: New page: Compile level01
+[2020.12.18-10.30.31:408][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.12.18-10.30.31:491][190]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.18-10.30.31:800][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.30.31:857][201]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.12.18-10.30.31:968][201]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level017F09C5404EF15E53333E3B8387B4B81A.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.30.32:047][201]LogFileHelpers: Saving map 'level01' took 0.249
+[2020.12.18-10.30.32:078][201]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.30.32:078][201]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.30.33:995][305]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.18-10.30.34:048][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.18-10.30.34:049][305]PIE: New page: PIE session: level01 (Dec 19, 2020, 12:30:34 AM)
+[2020.12.18-10.30.34:051][305]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.18-10.30.34:053][305]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.18-10.30.34:053][305]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_level01
+[2020.12.18-10.30.34:064][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010873s)
+[2020.12.18-10.30.34:066][305]LogAIModule: Creating AISystem for world level01
+[2020.12.18-10.30.34:066][305]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020B09778600), frame # 2305
+[2020.12.18-10.30.34:066][305]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020B092BBD80), frame # 2305
+[2020.12.18-10.30.34:066][305]LogPlayLevel: PIE: World Init took: (0.002381s)
+[2020.12.18-10.30.34:066][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/level01.level01 to /Game/Project/Maps/UEDPIE_0_level01.level01 (0.013598s)
+[2020.12.18-10.30.34:109][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.12.18-10.30.34:112][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.18-10.30.34:113][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.18-10.30.34:113][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.18-10.30.34:113][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.18-10.30.34:113][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.18-10.30.34:113][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.18-10.30.34:113][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.18-10.30.34:113][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.18-10.30.34:114][305]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.18-10.30.34:114][305]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.18-10.30.34:124][305]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.18-10.30.34:124][305]LogAudioMixer: Display: 1: FrontRight
+[2020.12.18-10.30.34:172][305]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.12.18-10.30.34:172][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.18-10.30.34:172][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.18-10.30.34:172][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.18-10.30.34:173][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.18-10.30.34:204][305]LogInit: FAudioDevice initialized.
+[2020.12.18-10.30.34:217][305]LogLoad: Game class is 'body_BP_C'
+[2020.12.18-10.30.34:223][305]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_level01.level01 up for play (max tick rate 60) at 2020.12.18-17.30.34
+[2020.12.18-10.30.34:223][305]LogWorld: Bringing up level for play took: 0.003330
+[2020.12.18-10.30.34:223][305]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.12.18-10.30.34:256][305]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2020.12.18-10.30.34:272][305]PIE: Server logged in
+[2020.12.18-10.30.34:273][305]PIE: Play in editor total start time 0.226 seconds.
+[2020.12.18-10.30.59:295][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-10.30.59:295][207]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_level01
+[2020.12.18-10.30.59:296][207]LogWorld: UWorld::CleanupWorld for level01, bSessionEnded=true, bCleanupResources=true
+[2020.12.18-10.30.59:296][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-10.30.59:375][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.18-10.30.59:383][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-10.30.59:478][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-10.30.59:488][207]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020B092BBD80), frame # 3207
+[2020.12.18-10.30.59:488][207]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020B09778600), frame # 3207
+[2020.12.18-10.30.59:525][207]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2020.12.18-10.30.59:609][208]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.12.18-10.32.13:916][549]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2020.12.18-10.32.14:198][552]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project/BP/HUD_Q.HUD_Q
+[2020.12.18-10.32.24:353][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_Q" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_Q.uasset" SILENT=true
+[2020.12.18-10.32.24:396][761]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_Q1CE12D88415FF8830E6DF0ABAF360F84.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_Q.uasset'
+[2020.12.18-10.32.24:443][761]AssetCheck: New page: Asset Save: HUD_Q
+[2020.12.18-10.32.24:443][761]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_Q.HUD_Q
+[2020.12.18-10.33.17:260][819]BlueprintLog: New page: Compile level01
+[2020.12.18-10.33.17:455][819]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2020.12.18-10.33.17:883][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.33.17:957][834]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2020.12.18-10.33.18:058][834]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level01490B9AF24031FCAFDCBBC48199A44571.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.33.18:128][834]LogFileHelpers: Saving map 'level01' took 0.245
+[2020.12.18-10.33.18:156][834]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.33.18:156][834]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.34.58:624][142]BlueprintLog: New page: Compile level01
+[2020.12.18-10.34.58:751][142]LogUObjectHash: Compacting FUObjectHashTables data took   7.72ms
+[2020.12.18-10.34.59:619][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.34.59:693][177]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.12.18-10.34.59:793][177]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level01B16C72E64A57D22D110CE8B35E0EFDF7.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.34.59:867][177]LogFileHelpers: Saving map 'level01' took 0.250
+[2020.12.18-10.34.59:893][177]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.34.59:893][177]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.35.21:152][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.35.21:223][250]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.12.18-10.35.21:336][250]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level019BCA3E5740424A910C5787887A9E27D7.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.35.21:416][250]LogFileHelpers: Saving map 'level01' took 0.265
+[2020.12.18-10.35.21:445][250]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.35.21:446][250]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.38.18:362][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.38.18:431][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.12.18-10.38.18:539][424]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level01C24097FA4E80AB24A8F977BC958DB666.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.38.18:611][424]LogFileHelpers: Saving map 'level01' took 0.250
+[2020.12.18-10.38.18:637][424]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.38.18:637][424]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.39.37:808][676]BlueprintLog: New page: Compile level01
+[2020.12.18-10.39.37:940][676]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2020.12.18-10.39.38:272][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.39.38:340][687]LogUObjectHash: Compacting FUObjectHashTables data took   6.69ms
+[2020.12.18-10.39.38:435][687]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level012455FD7746EF9F0E88837DA0C0A709C9.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.39.38:509][687]LogFileHelpers: Saving map 'level01' took 0.238
+[2020.12.18-10.39.38:541][687]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.39.38:541][687]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.40.21:876][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.40.21:944][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.12.18-10.40.22:038][976]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level016016B1904CB7C2421589D8B157F0CCF1.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.40.22:114][976]LogFileHelpers: Saving map 'level01' took 0.238
+[2020.12.18-10.40.22:137][976]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.40.22:137][976]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C26B9D6-45BA-752D-065D-25902F215234%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=14c2c57242e00871ab70408c0e2acc25%7C4891270952e74b5c9fc7b1d0bf4035f9%7C9dd06120-b2e1-42f1-893f-33a2acb90c8b&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: request failed, libcurl error: 0 (No error)
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x20afd22ff70 [can pipeline])
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.169.197.83) port 443 (#4))
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 7 (Closing connection 4)
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: 0000020B36573900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.12.18-10.40.24:612][112]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6C26B9D6-45BA-752D-065D-25902F215234%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=14c2c57242e00871ab70408c0e2acc25%7C4891270952e74b5c9fc7b1d0bf4035f9%7C9dd06120-b2e1-42f1-893f-33a2acb90c8b&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.12.18-10.42.50:995][716]BlueprintLog: New page: Compile level01
+[2020.12.18-10.42.51:016][716]LogBlueprint: Error: [Compiler PersistentLevel.level01] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2020.12.18-10.42.51:139][716]LogUObjectHash: Compacting FUObjectHashTables data took   8.74ms
+[2020.12.18-10.42.51:415][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.42.51:494][721]LogUObjectHash: Compacting FUObjectHashTables data took  10.42ms
+[2020.12.18-10.42.51:610][721]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level01FDBE91CC4AD503BF772CE192A3506A5D.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.42.51:708][721]LogFileHelpers: Saving map 'level01' took 0.294
+[2020.12.18-10.42.51:727][721]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.42.51:727][721]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.43.24:669][606]LogEditorTransaction: Undo Delete current selection
+[2020.12.18-10.43.58:222][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/BP/body.body
+[2020.12.18-10.44.03:559][255]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.18-10.44.03:559][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-10.44.07:613][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/BP/BP_body.BP_body
+[2020.12.18-10.44.11:543][512]LogSlate: Window 'BP_body' being destroyed
+[2020.12.18-10.44.26:129][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Project/BP/BP_door.BP_door
+[2020.12.18-10.45.01:165][ 80]BlueprintLog: New page: Compile level01
+[2020.12.18-10.45.01:183][ 80]LogBlueprint: Error: [Compiler PersistentLevel.level01] This blueprint (self) is not a GameplayTaskOwnerInterface, therefore ' Task Owner ' must have a connection.
+[2020.12.18-10.45.01:318][ 80]LogUObjectHash: Compacting FUObjectHashTables data took  11.96ms
+[2020.12.18-10.45.53:660][998]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.18-10.45.59:142][207]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-10.46.02:526][321]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project/BP/HUD_wait.HUD_wait
+[2020.12.18-10.46.22:923][401]BlueprintLog: New page: Compile level01
+[2020.12.18-10.46.23:082][401]LogUObjectHash: Compacting FUObjectHashTables data took   9.01ms
+[2020.12.18-10.46.24:039][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-10.46.24:122][447]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.12.18-10.46.24:227][447]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level01EAD834B54B437E8408CE4C8DDE8F8FB8.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-10.46.24:299][447]LogFileHelpers: Saving map 'level01' took 0.260
+[2020.12.18-10.46.24:324][447]AssetCheck: New page: Asset Save: level01
+[2020.12.18-10.46.24:325][447]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-10.47.32:454][ 43]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project/BP/HUD_menu.HUD_menu
+[2020.12.18-10.48.49:316][599]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-10.48.49:419][599]LogUObjectHash: Compacting FUObjectHashTables data took  10.05ms
+[2020.12.18-10.48.50:048][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-10.48.50:097][619]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle3661EA554CD60D351D6A8D85ACCD833D.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-10.48.50:126][619]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-10.48.50:127][619]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-10.50.31:029][110]LogSlate: Took 0.006927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.18-10.50.45:941][946]LogEditorTransaction: Undo Move Widget
+[2020.12.18-10.51.42:786][948]LogEditorTransaction: Undo Move Widget
+[2020.12.18-10.58.47:104][ 89]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-10.58.47:225][ 89]LogUObjectHash: Compacting FUObjectHashTables data took  10.24ms
+[2020.12.18-10.59.39:933][546]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-10.59.40:026][546]LogUObjectHash: Compacting FUObjectHashTables data took   8.88ms
+[2020.12.18-10.59.40:279][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-10.59.40:328][553]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzleBEFA304345537B96EDBA1DB736EAB144.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-10.59.40:354][553]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-10.59.40:354][553]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-10.59.50:005][ 16]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-10.59.50:103][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   8.50ms
+[2020.12.18-10.59.50:482][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-10.59.50:517][ 27]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle538E145E493A26D32A3666932CAD1EF2.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-10.59.50:542][ 27]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-10.59.50:542][ 27]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.02.54:799][802]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.02.54:908][802]LogUObjectHash: Compacting FUObjectHashTables data took   9.46ms
+[2020.12.18-11.02.55:639][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.02.55:675][824]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle227439FA42C797AC4BEFC1B161128F9E.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.02.55:703][824]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.02.55:703][824]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.04.01:299][480]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.04.01:396][480]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2020.12.18-11.04.01:795][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.04.01:833][492]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle4083014F4FF77C3E439790A09B561A50.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.04.01:860][492]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.04.01:860][492]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.05.02:939][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.05.02:995][102]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzleEE32BDC241631E0E55FCE7B98867A016.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.05.03:022][102]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.05.03:022][102]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.08.06:912][668]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.08.07:019][668]LogUObjectHash: Compacting FUObjectHashTables data took   9.30ms
+[2020.12.18-11.08.07:650][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.08.07:696][682]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzleBDF5652045B1A8F0A2D10F99EFF913A2.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.08.07:720][682]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.08.07:720][682]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.08.20:152][350]Cmd: TRANSACTION UNDO
+[2020.12.18-11.08.20:152][350]LogEditorTransaction: Undo Edit Font Material
+[2020.12.18-11.08.25:937][631]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.08.26:032][631]LogUObjectHash: Compacting FUObjectHashTables data took   8.56ms
+[2020.12.18-11.08.36:142][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.08.36:185][213]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzleFA2D52B34C1CB2E8608B57BCDFBF7B0C.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.08.36:208][213]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.08.36:208][213]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.10.36:014][166]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.18-11.10.36:014][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-11.10.47:898][726]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.18-11.10.54:519][ 65]BlueprintLog: New page: Compile level01
+[2020.12.18-11.10.54:539][ 65]LogBlueprint: Error: [Compiler PersistentLevel.level01] This blueprint (self) is not a Widget, therefore ' Target ' must have a connection.
+[2020.12.18-11.10.54:694][ 65]LogUObjectHash: Compacting FUObjectHashTables data took  11.37ms
+[2020.12.18-11.10.55:149][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-11.10.55:239][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.12.18-11.10.55:371][ 73]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level011D78F8B54BB428244622518D8A8524B2.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-11.10.55:451][ 73]LogFileHelpers: Saving map 'level01' took 0.303
+[2020.12.18-11.10.55:484][ 73]AssetCheck: New page: Asset Save: level01
+[2020.12.18-11.10.55:484][ 73]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-11.11.00:949][362]BlueprintLog: New page: Compile level01
+[2020.12.18-11.11.01:121][362]LogUObjectHash: Compacting FUObjectHashTables data took  10.50ms
+[2020.12.18-11.11.01:827][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-11.11.01:918][383]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2020.12.18-11.11.02:034][383]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level01F39826754C9D937CAEA95D8EC6D7A78C.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-11.11.02:118][383]LogFileHelpers: Saving map 'level01' took 0.293
+[2020.12.18-11.11.02:150][383]AssetCheck: New page: Asset Save: level01
+[2020.12.18-11.11.02:150][383]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-11.11.16:940][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2020.12.18-11.11.17:716][172]LogEditorViewport: Clicking on Actor (LMB): BP_body_C (spawn_BP)
+[2020.12.18-11.11.24:738][475]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.18-11.11.24:791][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.18-11.11.24:793][475]PIE: New page: PIE session: level01 (Dec 19, 2020, 1:11:24 AM)
+[2020.12.18-11.11.24:794][475]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_level01
+[2020.12.18-11.11.24:810][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016150s)
+[2020.12.18-11.11.24:812][475]LogAIModule: Creating AISystem for world level01
+[2020.12.18-11.11.24:812][475]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020B7D78DE00), frame # 121475
+[2020.12.18-11.11.24:812][475]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020BA8FB0A40), frame # 121475
+[2020.12.18-11.11.24:813][475]LogPlayLevel: PIE: World Init took: (0.002792s)
+[2020.12.18-11.11.24:813][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/level01.level01 to /Game/Project/Maps/UEDPIE_0_level01.level01 (0.019338s)
+[2020.12.18-11.11.24:897][475]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2020.12.18-11.11.24:902][475]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.18-11.11.24:902][475]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.18-11.11.24:902][475]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.18-11.11.24:902][475]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.18-11.11.24:902][475]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.18-11.11.24:902][475]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.18-11.11.24:902][475]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.18-11.11.24:902][475]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.18-11.11.24:903][475]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.18-11.11.24:903][475]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.18-11.11.24:915][475]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.18-11.11.24:915][475]LogAudioMixer: Display: 1: FrontRight
+[2020.12.18-11.11.24:976][475]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.12.18-11.11.24:976][475]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.18-11.11.24:977][475]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.18-11.11.24:977][475]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.18-11.11.24:978][475]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.18-11.11.25:018][475]LogInit: FAudioDevice initialized.
+[2020.12.18-11.11.25:051][475]LogLoad: Game class is 'body_BP_C'
+[2020.12.18-11.11.25:060][475]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_level01.level01 up for play (max tick rate 60) at 2020.12.18-18.11.25
+[2020.12.18-11.11.25:061][475]LogWorld: Bringing up level for play took: 0.007144
+[2020.12.18-11.11.25:062][475]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.12.18-11.11.25:086][475]PIE: Server logged in
+[2020.12.18-11.11.25:089][475]PIE: Play in editor total start time 0.304 seconds.
+[2020.12.18-11.11.26:818][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-11.11.26:818][544]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_level01
+[2020.12.18-11.11.26:819][544]LogWorld: UWorld::CleanupWorld for level01, bSessionEnded=true, bCleanupResources=true
+[2020.12.18-11.11.26:820][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-11.11.26:844][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.18-11.11.26:861][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-11.11.26:990][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-11.11.26:992][544]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020BA8FB0A40), frame # 121544
+[2020.12.18-11.11.26:992][544]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020B7D78DE00), frame # 121544
+[2020.12.18-11.11.27:002][544]LogUObjectHash: Compacting FUObjectHashTables data took   9.17ms
+[2020.12.18-11.11.27:065][545]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.12.18-11.11.27:597][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-11.11.27:685][561]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.12.18-11.11.27:783][561]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level0192FDBC7C408FF6200EE30F815B9DA4F9.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-11.11.27:859][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01_BuiltData" FILE="B:/git/ThePuppet/Content/Project/Maps/level01_BuiltData.uasset" SILENT=true
+[2020.12.18-11.11.27:914][561]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level01_BuiltData381B9E5F481150478E465B892AD4E060.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01_BuiltData.uasset'
+[2020.12.18-11.11.27:953][561]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.18-11.11.27:953][561]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-11.11.27:953][561]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/level01_BuiltData.level01_BuiltData
+[2020.12.18-11.11.32:538][774]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.18-11.11.32:589][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.18-11.11.32:589][774]PIE: New page: PIE session: level01 (Dec 19, 2020, 1:11:32 AM)
+[2020.12.18-11.11.32:590][774]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_level01
+[2020.12.18-11.11.32:601][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011042s)
+[2020.12.18-11.11.32:604][774]LogAIModule: Creating AISystem for world level01
+[2020.12.18-11.11.32:604][774]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020B72FA4600), frame # 121774
+[2020.12.18-11.11.32:604][774]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020BA8FB1BC0), frame # 121774
+[2020.12.18-11.11.32:605][774]LogPlayLevel: PIE: World Init took: (0.003747s)
+[2020.12.18-11.11.32:605][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/level01.level01 to /Game/Project/Maps/UEDPIE_0_level01.level01 (0.015183s)
+[2020.12.18-11.11.32:691][774]LogUObjectHash: Compacting FUObjectHashTables data took   8.93ms
+[2020.12.18-11.11.32:693][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.18-11.11.32:693][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.18-11.11.32:693][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.18-11.11.32:693][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.18-11.11.32:693][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.18-11.11.32:693][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.18-11.11.32:693][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.18-11.11.32:693][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.18-11.11.32:694][774]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.18-11.11.32:694][774]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.18-11.11.32:705][774]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.18-11.11.32:705][774]LogAudioMixer: Display: 1: FrontRight
+[2020.12.18-11.11.32:758][774]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.12.18-11.11.32:759][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.18-11.11.32:759][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.18-11.11.32:759][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.18-11.11.32:759][774]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.18-11.11.32:796][774]LogInit: FAudioDevice initialized.
+[2020.12.18-11.11.32:823][774]LogLoad: Game class is 'body_BP_C'
+[2020.12.18-11.11.32:831][774]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_level01.level01 up for play (max tick rate 60) at 2020.12.18-18.11.32
+[2020.12.18-11.11.32:832][774]LogWorld: Bringing up level for play took: 0.006327
+[2020.12.18-11.11.32:832][774]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.12.18-11.11.32:844][774]PIE: Server logged in
+[2020.12.18-11.11.32:846][774]PIE: Play in editor total start time 0.259 seconds.
+[2020.12.18-11.11.40:374][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-11.11.40:374][ 68]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_level01
+[2020.12.18-11.11.40:375][ 68]LogWorld: UWorld::CleanupWorld for level01, bSessionEnded=true, bCleanupResources=true
+[2020.12.18-11.11.40:376][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-11.11.40:397][ 68]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.18-11.11.40:413][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-11.11.40:541][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-11.11.40:542][ 68]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020BA8FB1BC0), frame # 122068
+[2020.12.18-11.11.40:542][ 68]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020B72FA4600), frame # 122068
+[2020.12.18-11.11.40:550][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.12.18-11.11.40:627][ 69]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.12.18-11.11.44:243][218]LogEditorViewport: Clicking on Actor (LMB): BP_body_C (spawn_BP)
+[2020.12.18-11.11.54:561][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01" FILE="B:/git/ThePuppet/Content/Project/Maps/level01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-11.11.54:646][597]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2020.12.18-11.11.54:760][597]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level015EC55B6C4EA8544D4A43918EDB9C0DBC.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01.umap'
+[2020.12.18-11.11.54:855][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/Maps/level01_BuiltData" FILE="B:/git/ThePuppet/Content/Project/Maps/level01_BuiltData.uasset" SILENT=true
+[2020.12.18-11.11.54:886][597]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/level01_BuiltData31E928464B51A619C3D7B0819CA826CE.tmp' to 'B:/git/ThePuppet/Content/Project/Maps/level01_BuiltData.uasset'
+[2020.12.18-11.11.54:920][597]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.18-11.11.54:920][597]LogContentValidation: Display: Validating World /Game/Project/Maps/level01.level01
+[2020.12.18-11.11.54:920][597]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project/Maps/level01_BuiltData.level01_BuiltData
+[2020.12.18-11.11.55:264][604]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.18-11.11.55:326][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.18-11.11.55:326][604]PIE: New page: PIE session: level01 (Dec 19, 2020, 1:11:55 AM)
+[2020.12.18-11.11.55:326][604]LogPlayLevel: Creating play world package: /Game/Project/Maps/UEDPIE_0_level01
+[2020.12.18-11.11.55:342][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015178s)
+[2020.12.18-11.11.55:344][604]LogAIModule: Creating AISystem for world level01
+[2020.12.18-11.11.55:344][604]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020BBDF38A00), frame # 122604
+[2020.12.18-11.11.55:344][604]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020B3D6D74C0), frame # 122604
+[2020.12.18-11.11.55:345][604]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2020.12.18-11.11.55:345][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Project/Maps/level01.level01 to /Game/Project/Maps/UEDPIE_0_level01.level01 (0.017764s)
+[2020.12.18-11.11.55:418][604]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.12.18-11.11.55:420][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.18-11.11.55:420][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.18-11.11.55:420][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.18-11.11.55:420][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.18-11.11.55:420][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.18-11.11.55:420][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.18-11.11.55:420][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.18-11.11.55:420][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.18-11.11.55:420][604]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.18-11.11.55:421][604]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.18-11.11.55:429][604]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.18-11.11.55:429][604]LogAudioMixer: Display: 1: FrontRight
+[2020.12.18-11.11.55:474][604]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek(R) Audio)
+[2020.12.18-11.11.55:475][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.18-11.11.55:475][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.18-11.11.55:475][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.18-11.11.55:476][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.18-11.11.55:505][604]LogInit: FAudioDevice initialized.
+[2020.12.18-11.11.55:522][604]LogLoad: Game class is 'body_BP_C'
+[2020.12.18-11.11.55:527][604]LogWorld: Bringing World /Game/Project/Maps/UEDPIE_0_level01.level01 up for play (max tick rate 60) at 2020.12.18-18.11.55
+[2020.12.18-11.11.55:527][604]LogWorld: Bringing up level for play took: 0.003720
+[2020.12.18-11.11.55:527][604]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.12.18-11.11.55:539][604]PIE: Server logged in
+[2020.12.18-11.11.55:540][604]PIE: Play in editor total start time 0.215 seconds.
+[2020.12.18-11.12.36:073][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-11.12.36:073][266]LogWorld: BeginTearingDown for /Game/Project/Maps/UEDPIE_0_level01
+[2020.12.18-11.12.36:073][266]LogWorld: UWorld::CleanupWorld for level01, bSessionEnded=true, bCleanupResources=true
+[2020.12.18-11.12.36:075][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-11.12.36:093][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.18-11.12.36:106][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.18-11.12.36:213][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.18-11.12.36:215][266]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020B3D6D74C0), frame # 124266
+[2020.12.18-11.12.36:215][266]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020BBDF38A00), frame # 124266
+[2020.12.18-11.12.36:222][266]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.12.18-11.12.36:292][267]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.12.18-11.14.48:218][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.14.48:274][261]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzleB5EDA06A491AC24BABA7DFA36BC29601.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.14.48:304][261]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.14.48:304][261]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.15.05:412][145]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.15.05:529][145]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2020.12.18-11.15.06:714][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.15.06:757][200]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzleA2CFE2A94844DEA25E2F49A254966A7A.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.15.06:783][200]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.15.06:783][200]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.16.00:302][164]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.18-11.16.00:302][164]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.18-11.16.00:513][175]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ส (U+0e2a)'
+[2020.12.18-11.16.00:530][175]LogSlate: Took 0.012598 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.12.18-11.16.26:151][492]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.16.26:257][492]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2020.12.18-11.16.26:684][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.16.26:731][500]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle2883365C49086490295FC4AC9BA6F215.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.16.26:755][500]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.16.26:755][500]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.33.52:170][ 39]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.18-11.33.52:170][ 39]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.18-11.34.25:834][622]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.34.25:949][622]LogUObjectHash: Compacting FUObjectHashTables data took  10.10ms
+[2020.12.18-11.34.26:381][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.34.26:439][636]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle0051845B40E3742B21D7D5B61A44DEE2.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.34.26:462][636]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.34.26:463][636]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.35.05:028][770]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.35.05:128][770]LogUObjectHash: Compacting FUObjectHashTables data took   9.40ms
+[2020.12.18-11.35.05:625][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.35.05:663][787]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzleD656C37B4F6E2F77D30049AE3C5A43CC.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.35.05:691][787]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.35.05:691][787]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.36.05:519][872]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-11.36.05:623][872]LogUObjectHash: Compacting FUObjectHashTables data took   8.83ms
+[2020.12.18-11.36.06:150][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset" SILENT=true
+[2020.12.18-11.36.06:200][894]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzleB0915EC94282D3738FAD028E471CA17A.tmp' to 'B:/git/ThePuppet/Content/Project/BP/HUD_puzzle.uasset'
+[2020.12.18-11.36.06:229][894]AssetCheck: New page: Asset Save: HUD_puzzle
+[2020.12.18-11.36.06:229][894]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project/BP/HUD_puzzle.HUD_puzzle
+[2020.12.18-11.37.17:391][847]LogUObjectHash: Compacting FUObjectHashTables data took   9.20ms
+[2020.12.18-11.37.17:393][847]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/level01' took 0.091
+[2020.12.18-11.37.17:395][847]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/BP/HUD_puzzle] ([1] browsable assets)...
+[2020.12.18-11.37.17:395][847]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/BP/HUD_puzzle]
+[2020.12.18-11.37.17:395][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.12.18-11.37.17:431][847]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle_Auto112310C604A6E0992455A5EA5802E5E0C.tmp' to 'B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto1.uasset'
+[2020.12.18-11.37.17:433][847]LogFileHelpers: Auto-saving content packages took 0.039
+[2020.12.18-11.47.18:051][644]LogUObjectHash: Compacting FUObjectHashTables data took   9.95ms
+[2020.12.18-11.47.18:055][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/level01' took 0.121
+[2020.12.18-11.47.18:056][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/BP/HUD_puzzle] ([1] browsable assets)...
+[2020.12.18-11.47.18:056][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/BP/HUD_puzzle]
+[2020.12.18-11.47.18:056][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.12.18-11.47.18:132][644]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle_Auto2A0A264AF4D2B9708D64939A109189079.tmp' to 'B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto2.uasset'
+[2020.12.18-11.47.18:133][644]LogFileHelpers: Auto-saving content packages took 0.078
+[2020.12.18-12.04.06:791][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.12.18-12.04.06:794][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/level01' took 0.100
+[2020.12.18-12.04.06:795][588]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/BP/HUD_puzzle] ([1] browsable assets)...
+[2020.12.18-12.04.06:795][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/BP/HUD_puzzle]
+[2020.12.18-12.04.06:795][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.12.18-12.04.06:853][588]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle_Auto3B942EB934C3E6C6E50BB03BEE9FE2FF7.tmp' to 'B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto3.uasset'
+[2020.12.18-12.04.06:853][588]LogFileHelpers: Auto-saving content packages took 0.059
+[2020.12.18-12.14.07:340][ 22]LogUObjectHash: Compacting FUObjectHashTables data took  13.11ms
+[2020.12.18-12.14.07:343][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/level01' took 0.112
+[2020.12.18-12.14.07:343][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/BP/HUD_puzzle] ([1] browsable assets)...
+[2020.12.18-12.14.07:344][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/BP/HUD_puzzle]
+[2020.12.18-12.14.07:344][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.12.18-12.14.07:401][ 22]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle_Auto403D6F9D04759B6D5F9B90E999016CA27.tmp' to 'B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto4.uasset'
+[2020.12.18-12.14.07:401][ 22]LogFileHelpers: Auto-saving content packages took 0.058
+[2020.12.18-12.24.08:101][890]LogUObjectHash: Compacting FUObjectHashTables data took  11.32ms
+[2020.12.18-12.24.08:111][890]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/level01' took 0.115
+[2020.12.18-12.24.08:114][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/BP/HUD_puzzle] ([1] browsable assets)...
+[2020.12.18-12.24.08:114][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/BP/HUD_puzzle]
+[2020.12.18-12.24.08:114][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.12.18-12.24.08:163][890]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle_Auto5966D22E54E42997ED63BDD88A9DE3F3C.tmp' to 'B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto5.uasset'
+[2020.12.18-12.24.08:163][890]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.12.18-12.34.12:727][984]LogUObjectHash: Compacting FUObjectHashTables data took  13.85ms
+[2020.12.18-12.34.12:730][984]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project/Maps/level01' took 0.127
+[2020.12.18-12.34.12:731][984]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Project/BP/HUD_puzzle] ([1] browsable assets)...
+[2020.12.18-12.34.12:731][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project/BP/HUD_puzzle]
+[2020.12.18-12.34.12:731][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Project/BP/HUD_puzzle" FILE="B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.12.18-12.34.12:828][984]LogSavePackage: Moving 'B:/git/ThePuppet/Saved/HUD_puzzle_Auto6986FEBDA4F4C71752C414DA4112B83FC.tmp' to 'B:/git/ThePuppet/Saved/Autosaves/Game/Project/BP/HUD_puzzle_Auto6.uasset'
+[2020.12.18-12.34.12:829][984]LogFileHelpers: Auto-saving content packages took 0.099
+[2020.12.18-12.35.45:827][884]LogSlate: Took 0.000870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.12.18-12.35.55:570][381]BlueprintLog: New page: Compile HUD_puzzle
+[2020.12.18-12.35.55:596][381]LogBlueprint: Error: [Compiler HUD_puzzle] The current value of the ' In Style ' pin is invalid: 'In Style' in action 'Set Style' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.12.18-12.35.55:693][381]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2020.12.18-12.36.11:114][887]LogWindows: Error: === Critical error: ===
+[2020.12.18-12.36.11:115][887]LogWindows: Error: 
+[2020.12.18-12.36.11:115][887]LogWindows: Error: Fatal error!
+[2020.12.18-12.36.11:115][887]LogWindows: Error: 
+[2020.12.18-12.36.11:115][887]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffff
+[2020.12.18-12.36.11:115][887]LogWindows: Error: 
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff92c6412de VCRUNTIME140.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8ce8e6ca3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8b29696e3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8b299aec2 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8b299aa8e UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8b2816699 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8b27df635 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8b2b112ac UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0067031 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0065aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8ca7fc7d9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0065aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8ca7fc664 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:115][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0065aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8ca7fc664 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0065915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0065aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8ca7fea00 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:116][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8ca7fea00 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8ca7fea00 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0065915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0065aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8ca7fc664 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:117][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0065915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0065aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8ca7fea00 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0065915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:118][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0065aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0068248 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0065aab UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0065915 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0064fe4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0067866 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d0068357 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8cffc9770 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8d00685e4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8ca5c9747 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8ca5fa669 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8ca620af0 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff8ca620024 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff714c68735 UE4Editor.exe!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff714c7ba7c UE4Editor.exe!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff714c7bb5a UE4Editor.exe!UnknownFunction []
+[2020.12.18-12.36.11:119][887]LogWindows: Error: [Callstack] 0x00007ff714c8e31d UE4Editor.exe!UnknownFunction []
+[2020.12.18-12.36.11:120][887]LogWindows: Error: [Callstack] 0x00007ff714c9145a UE4Editor.exe!UnknownFunction []
+[2020.12.18-12.36.11:120][887]LogWindows: Error: [Callstack] 0x00007ff9357d7c24 KERNEL32.DLL!UnknownFunction []
+[2020.12.18-12.36.11:120][887]LogWindows: Error: [Callstack] 0x00007ff936ded4d1 ntdll.dll!UnknownFunction []
+[2020.12.18-12.36.11:120][887]LogWindows: Error: 
+[2020.12.18-12.36.11:138][887]LogExit: Executing StaticShutdownAfterError
+[2020.12.18-12.36.11:254][887]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.12.18-12.36.11:254][887]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.12.18-12.36.11:266][887]Log file closed, 12/18/20 19:36:11
