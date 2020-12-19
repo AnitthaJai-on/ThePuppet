@@ -72,7 +72,7 @@ https://docs.unrealengine.com/en-US/Engine/MediaFramework/HowTo/FileMediaSource/
 * Character
   * [ ] น้อง
   * [ ] คนเฝ้ายามในห้องสมุด
-  * [ ] นกฮูก
+  * [X] นกฮูก
 
 * Sound
 
