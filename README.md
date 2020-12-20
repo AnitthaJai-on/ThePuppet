@@ -70,8 +70,8 @@ https://docs.unrealengine.com/en-US/Engine/MediaFramework/HowTo/FileMediaSource/
   * [X] ฉากในป่านำไปสู่ตอนจบที่เป็นคำถาม
   
 * Character
-  * [ ] น้อง
-  * [ ] คนเฝ้ายามในห้องสมุด
+  * [X] น้อง
+  * [X] คนเฝ้ายามในห้องสมุด
   * [X] นกฮูก
 
 * Sound
